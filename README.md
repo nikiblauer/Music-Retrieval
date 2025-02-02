@@ -1,4 +1,7 @@
-# Audio Identification Algorithm (Shazam Implementation)
+# Music Retrieval (Shazam Implementation)
+
+![](header.png)
+
 
 This repository contains an implementation of the audio identification algorithm described in the original Shazam paper. The algorithm utilizes audio fingerprint hashing for efficient and accurate audio retrieval.
 
@@ -50,11 +53,7 @@ The data audio tracks used in this notebook can be found at [Freesound MTG-Jamen
 **Note**: All audio files are saved in MP3 format.
 
 ## References
-- Wang, Avery Li-Chun. "An industrial strength audio search algorithm." Proceedings of the 4th International Conference on Music Information Retrieval (ISMIR). 2003.
+[Original Shazam Paper (Wang, 2003)](https://www.ee.columbia.edu/~dpwe/papers/Wang03-shazam.pdf)
 
-## Contributing
-If you would like to contribute to this project, feel free to fork the repository and submit a pull request.
 
-## License
-This project is licensed under the MIT License.
 
