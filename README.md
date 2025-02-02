@@ -3,7 +3,7 @@
 ![](header.webp)
 
 
-This repository contains an implementation of the audio identification algorithm described in the original Shazam paper. The algorithm utilizes audio fingerprint hashing for efficient and accurate audio retrieval.
+This repository contains an implementation of the audio identification algorithm described in the [Original Shazam Paper (Wang, 2003)](https://www.ee.columbia.edu/~dpwe/papers/Wang03-shazam.pdf). The algorithm utilizes audio fingerprint hashing for efficient and accurate audio retrieval.
 
 ## Features
 - Extracts audio fingerprints from sound samples
