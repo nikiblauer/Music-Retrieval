@@ -1,6 +1,6 @@
 # Music Retrieval (Shazam Implementation)
 
-![](header.png)
+![](header.webp)
 
 
 This repository contains an implementation of the audio identification algorithm described in the original Shazam paper. The algorithm utilizes audio fingerprint hashing for efficient and accurate audio retrieval.
