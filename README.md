@@ -16,7 +16,7 @@ To run this notebook, you can install the required dependencies using Conda with
 
 ```bash
 conda env create -f environment.yml
-conda activate audio-id
+conda activate ir
 ```
 
 ## Usage
